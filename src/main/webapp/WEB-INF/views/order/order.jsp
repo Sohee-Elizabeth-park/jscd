@@ -1,5 +1,6 @@
 <%--
 실결제 진행 페이지 
+검증 해야함
 http://localhost:8080/order/order?registCode=2
   Created by IntelliJ IDEA.
   User: soheepark
