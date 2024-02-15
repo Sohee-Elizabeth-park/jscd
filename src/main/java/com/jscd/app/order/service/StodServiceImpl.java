@@ -42,7 +42,7 @@ public class StodServiceImpl implements StodService {
         int result = stodDao.updateStatusToPaid(params);
         if (result != 1) {
             throw new Exception("updateStatusToPaid failed");
-        }
+        } 
     }
 
     // 결제내역 테이블에 데이터 저장
