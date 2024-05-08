@@ -10,20 +10,25 @@ https://www.canva.com/design/DAF3TIYE70g/qwJYtw1SblFeBvn4UCdh0Q/edit?utm_content
 https://drive.google.com/drive/folders/1WbtBNvzTYSZZZ7KKohTmRPNkVARDUT-V?usp=drive_link
 
 - 클래스 다이어그램
-![IMG_0882.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/db1d02c3-f608-4b61-8875-6a64ef4bfb68/IMG_0882.jpeg)
-![IMG_0883.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/5d7e630c-4b86-4985-a142-f9e90b5332f8/IMG_0883.jpeg)
+<img width="714" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/48a0b269-5b97-479a-b32c-d196a87b5102">
+<img width="726" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/16ac3766-376a-459d-bd81-40b8a9f70f75">
+
 
 - 스토리보드
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/a1e2dfb2-aba0-4e30-b9f8-72e3251d7b06/Untitled.png)
+<img width="1162" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/5b04b111-e239-44f3-9fe9-c607436626dd">
+
 
 - 유스케이스
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/a117454d-e896-4911-885e-603d11381fe3/Untitled.png)
+<img width="705" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/247bd995-a19d-43b1-900c-7a7aa5aef517">
+
 
 - WBS (Work Breakdown Structure)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/ecab9594-47f9-4763-83de-e11e858e42cb/Untitled.png)
+<img width="1363" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/d403dc13-ad6f-451b-90b9-e5b9603f4d87">
+
 
 - 요구사항 정의서
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/a1e92600-83a8-40d5-91d6-7dae2bcf310a/Untitled.png)
+<img width="1363" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/920be4e5-7c81-4741-914f-70c4c3b17e5a">
+
 
 노션 (일정관리)
 https://evergreen-roundworm-f25.notion.site/74583e3e1c694703b11df234fb4725d7?pvs=4
@@ -32,9 +37,12 @@ https://evergreen-roundworm-f25.notion.site/74583e3e1c694703b11df234fb4725d7?pvs
 
 피그마 (화면 구성 및 디자인)
 https://www.figma.com/file/z74K1b0Lg3Ho27GqJHeYYt/JungsukCoding?type=design&node-id=649%3A35&mode=design&t=1zFreXuAPWXUnz1u-1
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/2b18594f-d9e7-4dc1-b8ab-34cdb74e391b/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/982239bb-49e8-467c-8424-fdd3947a2c86/Untitled.png)
+<img width="828" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/71f02085-4823-405c-9931-a3f17a0de8d2">
+<img width="811" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/a4ac241f-31d6-4f3d-9b7a-0c7b968d4d9d">
+
+
 
 ERD 
 https://www.erdcloud.com/d/WeKLMPhyHwTmDEY6q
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1c4f179-ad3e-4ae5-84e2-5cb805e6b23a/8eedada1-f229-4af9-9d2d-a34b0c75ba7f/Untitled.png)
+<img width="1138" alt="image" src="https://github.com/Sohee-Elizabeth-park/jscd/assets/144773013/eda24014-c7e0-4fea-aaad-277428a0bbf8">
+
